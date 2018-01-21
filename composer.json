@@ -1,0 +1,14 @@
+{
+    "name": "aratrohcaz/php-party",
+    "type": "project",
+    "license": "LGPL-3.0+",
+    "description": "A simple php image partifier",
+    "authors": [
+        {
+            "name": "aratrohcaz",
+            "email": "thataddress@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
